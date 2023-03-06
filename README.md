@@ -15,7 +15,9 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para pe
 
 ## :open_file_folder: Possíveis Implementações
 - O projeto poderá ter atualizações futuras.
-[EuEbertEu](https://github.com/EuEbertEu)).
+
+## :bust_in_silhouette: Desenvolvedor
+[EuEbertEu](https://github.com/EuEbertEu).
 
 ## :hourglass_flowing_sand: Status do Projeto
 - Em elaboração.
